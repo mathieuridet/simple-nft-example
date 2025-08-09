@@ -24,6 +24,9 @@ A simple ERC-721 NFT smart contract deployed to Sepolia testnet, built with [Sca
 - **Address:** `0x5554d8c045c587f7B35e4451246AAbB66f0B4CFC`  
 - **Etherscan:** [View on Etherscan](https://sepolia.etherscan.io/address/0x5554d8c045c587f7B35e4451246AAbB66f0B4CFC)
 
+## Try it yourself !
+Reach the following website to send me an NFT : https://nextjs-aghqtfscd-mridets-projects.vercel.app/
+
 ## 🛠 How to Run Locally
 ```bash
 # Clone the repo
