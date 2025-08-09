@@ -39,7 +39,7 @@ const Home: NextPage = () => {
                 />
                 <div className="max-w-3xl">
                   <p className="text-center text-lg mt-8">
-                    🎫 Create a simple NFT to learn basics of 🏗️ Scaffold-ETH 2. You'll use 👷‍♀️
+                    🎫 Create a simple NFT to learn basics of 🏗️ Scaffold-ETH 2. You&apos;ll use 👷‍♀️
                     <a
                       href="https://hardhat.org/getting-started/"
                       target="_blank"
@@ -48,8 +48,8 @@ const Home: NextPage = () => {
                     >
                       HardHat
                     </a>{" "}
-                    to compile and deploy smart contracts. Then, you'll use a template React app full of important
-                    Ethereum components and hooks. Finally, you'll deploy an NFT to a public network to share with
+                    to compile and deploy smart contracts. Then, you&apos;ll use a template React app full of important
+                    Ethereum components and hooks. Finally, you&apos;ll deploy an NFT to a public network to share with
                     friends! 🚀
                   </p>
                   <p className="text-center text-lg">
